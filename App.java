@@ -26,6 +26,7 @@ public class App {
 			break;
 		default:
 			System.out.println("el numero ingresado no es correcto");
+			System.out.println("gracias por participar");
 		}
 
 
